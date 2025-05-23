@@ -1,9 +1,9 @@
 package br.com.fiap.checkpoint1.model;
 
 public enum ConsultaStatus {
-    AGENDADA("Essa consulta está MARCADA"),
-    CANCELADA("Essa consulta foi CANCELADA"),
-    REALIZADA("Essa consulta está FINALIZADA");
+    AGENDADA("Sua consulta está marcada"),
+    CANCELADA("Sua consulta foi cancelada"),
+    REALIZADA("Sua consulta está finalizada");
 
 
     ConsultaStatus(String mensagem) {
